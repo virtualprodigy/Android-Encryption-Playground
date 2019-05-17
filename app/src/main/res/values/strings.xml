@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Encryption Playground</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_text_to_encrypt">Text to Encrypt</string>
+    <string name="button_run_encryption">Run Encryption</string>
+    <string name="label_encrypted_string">Encrypted String</string>
+    <string name="label_decrypted_string_here">Decrypted String Here</string>
+</resources>
